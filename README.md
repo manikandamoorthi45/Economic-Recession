@@ -1,5 +1,5 @@
 # Economic-Recession
-![Uploading image.png…]()
+<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/57dce0b2-0ca1-436f-bedd-a3c94e1f4533" /> 
 
 
 # 🏦 Economic Recession Prediction Project
